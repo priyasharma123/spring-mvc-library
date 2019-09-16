@@ -1,0 +1,3 @@
+com\springdemo\controller\DemoRestController.class
+com\springdemo\rest\DispacterServletInitilizer.class
+com\springdemo\rest\DemoAppConfig.class
